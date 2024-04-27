@@ -5,8 +5,8 @@
 local M = {}
 
 M.ui = {
-	theme = "onedark",
-
+	theme = "tokyonight",
+  statusline = { theme = "vscode_colored" }
 	-- hl_override = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
